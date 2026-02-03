@@ -1,0 +1,4 @@
+conda activate leafenv
+cd C:\leaf_disease
+set PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
+streamlit run main.py

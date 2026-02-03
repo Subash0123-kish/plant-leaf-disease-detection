@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dataset (usually too large for git)
+Plant_Disease_Dataset/
+
+# OS
+.DS_Store
+Thumbs.db

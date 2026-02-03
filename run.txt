@@ -1,0 +1,3 @@
+cd C:\leaf_disease
+set PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
+"C:\Users\subas\anaconda3\envs\leafenv\python.exe" -m streamlit run main.py
