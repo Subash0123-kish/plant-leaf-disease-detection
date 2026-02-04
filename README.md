@@ -29,7 +29,7 @@ Create and activate a virtual environment (example with conda), then install dep
 ```bash
 conda create -n leafenv python=3.9 -y
 conda activate leafenv
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 On Windows with TensorFlow/Streamlit, set a protobuf variable to avoid runtime issues:
